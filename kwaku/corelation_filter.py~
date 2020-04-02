@@ -1,0 +1,7 @@
+
+
+def create(config, ingraph, outgraph):
+    # query for all nodes with an inedge with the inputrelation
+    # except if reverse, in which case query outedge
+    # for all the nodes connected double loop to update nodes in outgraph        
+    return False
